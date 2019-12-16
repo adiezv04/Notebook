@@ -1,1 +1,1 @@
-Para poder ejecutar la práctica es necesario importar desde el Neo4j Desktop el archivo .csv contenido en la carpeta
+Para poder ejecutar la práctica es necesario importar desde el Neo4j Desktop el archivo .csv contenido en la carpeta y modificar el código de Python especificando el puerto donde esta corriendo la base de datos si este cambiase.
