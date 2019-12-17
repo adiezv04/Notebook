@@ -302,7 +302,7 @@ class Application(ttk.Frame):
         
         super().__init__(main_window)
         
-        main_window.title("Cycling Results")
+        main_window.title("Cycling Predictor")
         main_window.configure(width=800, height=280)
         main_window.resizable(False, False)
         self.place(width=800, height=280)
